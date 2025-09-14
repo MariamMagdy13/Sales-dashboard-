@@ -1,3 +1,5 @@
+Sales Analysis Dashboard 
+
 This project presents an interactive Excel Sales Analysis Dashboard designed to analyze business performance across different categories, regions, and time periods.
 
 🚀 Dashboard Highlights

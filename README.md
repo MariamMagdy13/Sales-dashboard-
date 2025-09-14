@@ -2,52 +2,50 @@ Sales Analysis Dashboard
 
 This project presents an interactive Excel Sales Analysis Dashboard designed to analyze business performance across different categories, regions, and time periods.
 
-🚀 Dashboard Highlights
+🚀 Dashboard Highlights      
+📌 KPI Cards
 
-KPI Cards
+💰 Total Sales: $2,297,20
 
-Total Sales: $2,297,20
+📦 Total Quantity: 37,873
 
-Total Quantity: 37,873
+🛒 Total Orders: 9,994
 
-Total Orders: 9,994
+🎟️ Average Discount: 16%
 
-Average Discount: 16%
+📈 Total Profit: $286,397
 
-Total Profit: $286,397
+📂 Category Analysis
 
-Category Analysis
+💵 Total Profit by Category (Furniture, Office Supplies, Technology)
 
-Total Profit by Category (Furniture, Office Supplies, Technology)
+📊 Total Quantity by Category
 
-Total Quantity by Category
+💹 Total Sales by Category
 
-Total Sales by Category
+🔎 Sub-Category Insights
 
-Sub-Category Insights
+📈 Line chart: Total Sales by Sub-Category
 
-Line chart of Total Sales by Sub-Category
+📉 Bar chart: Total Profit by Sub-Category
 
-Bar chart of Total Profit by Sub-Category
+🌍 Geographical Insights
 
-Geographical Insights
+🗺️ Map: Total Customers by State (US)
 
-Map of Total Customers by State (US)
+⭐ Top 10 Products
 
-Top 10 Products
+ Contribution of top-performing products to total sales
 
-Contribution of top-performing products to total sales.
+ Tools & Technologies
 
-🛠️ Tools & Technologies
-
-Microsoft Excel
+ Microsoft Excel
 
  Pivot Tables
 
 Slicers for interactive filtering (Region, Category, Years, Quarters)
 
-Data Visualization: Charts, Maps, and KPIs
-
+📊 Data Visualization: Charts, Maps, and KPIs
 🎯 Key Insights
 
 Technology category drives the highest profit (51%).
